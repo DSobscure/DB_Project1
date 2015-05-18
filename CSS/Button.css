@@ -1,0 +1,152 @@
+.formItemButtonLogin
+{
+    display: block;
+    font-size: 1em;
+    line-height: 1.3;
+    font-family: sans-serif;
+    margin: 0px auto;
+    width: 5cm;
+    border-radius:5px;
+    box-shadow: inset;
+    color: #fff;
+    background: linear-gradient(#2946ef, #152db8) repeat scroll 0% 0% #69A74E;
+    box-shadow: 0px 1px 1px #152db8 inset;
+    border-color: #152db8 #152db8 #152db8;
+}
+
+.formItemButtonRegister
+{
+    display: block;
+    font-size: 1em;
+    line-height: 1.3;
+    font-family: sans-serif;
+    margin: 0px auto;
+    width: 5cm;
+    border-radius:5px;
+    color: #fff;
+    background: linear-gradient(#67AE55, #578843) repeat scroll 0% 0% #69A74E;
+    box-shadow: 0px 1px 1px #A4E388 inset;
+    border-color: #3B6E22 #3B6E22 #2C5115;
+}
+
+.LogoutButton
+{
+    height: 3cm;
+    width: 2cm;
+    float: right;
+    color: #fff;
+    background-color: #000;
+    white-space:pre-wrap;
+}
+
+.AddNewJobButton
+{
+    background: linear-gradient(#4b8ffc, #1c5bc0) repeat scroll 0% 0% #1928d9;
+    color: #fff;
+    border-radius:5px;
+    box-shadow: 0px 1px 1px inset;
+    border-color: #1928d9;
+    height: 1cm;
+    width: 4cm;
+    margin-bottom: 10px;
+}
+
+.SeekerListButton
+{
+    background: linear-gradient(#0ddef3,#1da2ef) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    box-shadow: 0px 1px 1px inset;
+    border-color: #1928d9;
+    height: 1cm;
+    width: 4cm;
+    margin-bottom: 10px;
+}
+
+.PrePageButton
+{
+    float: left;
+    color: #fff;
+    line-height: 1.3cm;
+    width: 1.5cm;
+    background-color: #000;
+}
+
+.NextPageButton
+{
+    float: right;
+    color: #fff;
+    line-height: 1.3cm;
+    width: 1.5cm;
+    background-color: #000;
+}
+
+.SaveButton
+{
+    background: linear-gradient(#47b42d, #5f9847) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.CancleButton
+{
+    background: linear-gradient(#f9ab2f,#de860c) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.EditButton
+{
+    background: linear-gradient(#47b42d, #5f9847) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.DeleteButton
+{
+    background: linear-gradient(#f9ab2f,#de860c) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.UpdateButton
+{
+    background: linear-gradient(#4b8ffc, #1c5bc0) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.CancleButton2
+{
+    background: linear-gradient(#e82a2a,#db1a1a) repeat scroll 0% 0%;
+    color: #fff;
+    border-radius:5px;
+    border-width: 0;
+}
+
+.MyJobButton
+{
+    background: linear-gradient(#fff,#ccc9c9) repeat scroll 0% 0%;
+    color: #000;
+    border-radius:5px;
+    box-shadow: 0px 1px 1px;
+    border-color: #fff;
+    height: 0.95cm;
+    width: 4cm;
+    margin-bottom: 10px;
+}
+
+.HireButton
+{
+    background: linear-gradient(#fff,#ccc9c9) repeat scroll 0% 0%;
+    color: #000;
+    box-shadow: 0px 1px 1px;
+    border-color: #fff;
+    height: 0.7cm;
+    width: 1.5cm;
+}

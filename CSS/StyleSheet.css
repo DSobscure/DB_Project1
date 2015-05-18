@@ -1,0 +1,205 @@
+body 
+{
+    height: 20cm;
+    width: 100%;
+    margin: 0;
+}
+
+div
+{
+    margin: 0.5cm;
+}
+
+[data-role="header"]
+{
+    margin: 0;
+    padding: 0;
+    line-height: 3cm;
+    height: 3cm;
+    background-color: #000;
+    color: #fff;   
+    text-align: center;
+    font-size: 32pt;
+}
+
+[data-role="content"]
+{
+    height: max-content;
+    width: max-content;
+}
+
+.content
+{
+    height: 16cm;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.VacancyTable
+{
+    float:left;
+    background-color: #ccc9c9;
+    margin: 0.5cm;
+    width: 20cm;
+}
+
+.VacancyTableFull
+{
+    background-color: #ccc9c9;
+    margin: auto;
+    width: 100%;
+}
+
+.JobSeekerTableFull
+{
+    background-color: #ccc9c9;
+    margin: auto;
+    height: 14cm;
+    width: 100%;
+}
+
+.loginForm
+{
+    float:left;
+    background-color: #ccc9c9;
+    width: 10cm;
+}
+
+.inlineObject
+{
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.3;
+    font-family: sans-serif;
+    margin-top: 2cm;
+}
+
+.formItem
+{
+    display: block;
+    font-size: 1em;
+    line-height: 1.3;
+    font-family: sans-serif;
+    margin: 0px auto;
+}
+
+.TableTitle
+{
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    height: 1.5cm;
+    text-align: center;
+    line-height: 1.5cm;
+    font-size: 1cm;
+}
+
+.Tab
+{
+    display: inline-block;
+    width: 180px;
+    margin: 0;
+    text-align: center;
+    height: 1cm;
+    line-height: 1cm;
+    background-color: #808080;
+    color: #fff;
+    border-style: outset;
+}
+
+.JobTableSchema
+{
+    background-color: #A4E388;
+    height: 1cm;
+}
+
+.registerForm
+{
+    margin: 0 auto;
+    width: 20cm;
+}
+
+.inlineCheckBox
+{
+    display: inline-block;
+}
+
+.alert
+{
+    margin: 0 auto;
+    text-align: center;
+    color: red;
+}
+
+.JobTableRow0
+{
+    background-color: #f5efef;
+    height: 0.8cm;
+    text-align: center;
+}
+
+.JobTableRow1
+{
+    background-color: #bcb9b9;
+    height: 0.8cm;
+    text-align: center;
+}
+
+.SeekerRow0
+{
+    background-color: #f5efef;
+    height: 0.8cm;
+}
+
+.SeekerRow1
+{
+    background-color: #ccc9c9;
+    height: 0.8cm;
+}
+
+.JobTable
+{
+    border-spacing: 0px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.NameLable
+{
+    float: left;
+    font-size: medium;
+}
+
+.JobTableRowNewJob
+{
+    background-color: #f3eeee;
+    height: 0.8cm;
+    text-align: center;
+}
+
+.SortDirectionUp
+{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 7.5px 8px 7.5px;
+    border-color: transparent transparent #007bff transparent;
+    display: inline-block;
+}
+
+.SortDirectionDown
+{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 7.5px 0 7.5px;
+    border-color: #007bff transparent transparent transparent;  
+    display: inline-block;
+}
+
+.MyJobRow
+{
+    background-color: #dbe8f7;
+    height: 1cm;
+    text-align: left;
+}
