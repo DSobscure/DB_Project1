@@ -10,4 +10,5 @@
     $Database->query("set character_set_results='utf8'");
     $Database->query("set character_set_client='utf8'");
     $Database->query("set collation_connection='utf8_general_ci'");
+	//test
 ?>
