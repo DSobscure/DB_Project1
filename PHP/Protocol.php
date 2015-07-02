@@ -1,5 +1,5 @@
 <?php
-    $DatabaseIP = "140.113.229.249";
+    $DatabaseIP = "testIgnore";
     $DatabaseAccount = "DB_Obscure";
     $DatabasePassword = "DBObscure000";
     $DatabaseName = "db_project1";
